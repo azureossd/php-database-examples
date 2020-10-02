@@ -1,0 +1,12 @@
+{
+    "name": "azureossd/cosmosdb-mongo",
+    "require": {
+        "mongodb/mongodb": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "Christopher Maldonado",
+            "email": "chmald@microsoft.com"
+        }
+    ]
+}
